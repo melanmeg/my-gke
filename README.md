@@ -13,3 +13,9 @@
 ```bash
 hoge
 ```
+
+## 参考
+- https://developer.hashicorp.com/terraform/tutorials/gcp-get-started/google-cloud-platform-build
+- https://cloud.google.com/docs/terraform?hl=ja
+- https://cloud.google.com/sdk/docs?hl=ja
+- https://sreake.com/blog/cilium-kube-proxy-replacement/
